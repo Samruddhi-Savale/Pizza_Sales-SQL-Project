@@ -115,7 +115,7 @@ Pizza_Sales-SQL-Project/
 Aspiring Data Analyst | SQL | Python | Power BI | Excel | Data Visualization | Data Cleaning 
 
 - **GitHub:**
-https: //github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project.git
+https://github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project.git
 - **LinkedIn:**
 https://www.linkedin.com/in/samruddhi-savale-7119a4284/
 
