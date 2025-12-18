@@ -81,11 +81,13 @@ These insights can help businesses optimize **menu strategy, pricing, staffing, 
 
 Pizza_Sales-SQL-Project/
 
+```
 │── data/
 │── sql/
 │── dashboard/
 │── assets/
 │── README.md
+```
 
 ---
 
@@ -112,6 +114,12 @@ Pizza_Sales-SQL-Project/
 **Samruddhi Savale**
 Aspiring Data Analyst | SQL | Python | Power BI | Excel | Data Visualization | Data Cleaning 
 
-GitHub: https://github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project.git
+**GitHub:**
+https: //github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project.git
+**LinkedIn:**
+https://www.linkedin.com/in/samruddhi-savale-7119a4284/
+
+## License
+This project is licensed under the MIT License.
 
 ---
