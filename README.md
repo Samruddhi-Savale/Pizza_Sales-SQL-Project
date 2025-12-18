@@ -80,6 +80,7 @@ These insights can help businesses optimize **menu strategy, pricing, staffing, 
 ## Project Structure
 
 Pizza_Sales-SQL-Project/
+
 │── data/
 │── sql/
 │── dashboard/
