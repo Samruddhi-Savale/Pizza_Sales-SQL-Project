@@ -28,11 +28,13 @@ The dataset contains detailed pizza order information, including:
 * Quantity ordered
 * Price and total sales
 
-**SQL Queries Used:** <a href = "https://github.com/Samruddhi-Savale/SQL-PROJECT/blob/main/dominos.sql"> Pizza Sales Queries </a>
+**Dataset Used:** <a href = "https://github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project/tree/main/data"> Pizza Sales Dataset </a>
 
-**Presentation (PPT):** <a href = "https://github.com/Samruddhi-Savale/SQL-PROJECT/blob/main/Pizza%20Sales%20PPT.pdf"> Pizza Sales Presentation </a>
+**SQL Queries Used:** <a href = "https://github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project/tree/main/sql"> Pizza Sales Queries </a>
 
-**Interactive Dashboard:** <a href = "https://github.com/Samruddhi-Savale/SQL-PROJECT/blob/main/PIZZA%20SALES.pbix"> Pizza Sales Performance Dashboard (Power BI) </a>
+**Presentation (PPT):** <a href = "https://github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project/blob/main/assets/Pizza%20Sales%20PPT.pdf"> Pizza Sales Presentation </a>
+
+**Interactive Dashboard:** <a href = "https://github.com/Samruddhi-Savale/Pizza_Sales-SQL-Project/blob/main/dashboard/PIZZA%20SALES%20Dashboard.pbix"> Pizza Sales Performance Dashboard (Power BI) </a>
 
 ---
 
@@ -74,6 +76,17 @@ These insights can help businesses optimize **menu strategy, pricing, staffing, 
 
 ---
 
+## Project Structure
+
+Pizza_Sales-SQL-Project/
+│── data/
+│── sql/
+│── dashboard/
+│── assets/
+│── README.md
+
+---
+
 ## How to Use This Project
 
 1. Import the dataset into MySQL
@@ -92,7 +105,7 @@ These insights can help businesses optimize **menu strategy, pricing, staffing, 
 
 ---
 
-## Contact
+## Author
 
 **Samruddhi Savale**
 Aspiring Data Analyst | SQL | Python | Power BI | Excel | Data Visualization | Data Cleaning 
