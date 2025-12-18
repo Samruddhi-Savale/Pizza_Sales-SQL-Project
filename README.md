@@ -60,7 +60,8 @@ The Power BI dashboard created from the SQL analysis provides:
 * Quantity sold by pizza category
 
 **Dashboard View:**
-<img width="1521" height="854" alt="Screenshot 2025-12-17 141301" src="https://github.com/user-attachments/assets/a3e33fb7-c65b-4e37-8326-00973c61c2ba" />
+<img width="1517" height="854" alt="Screenshot 2025-12-17 141301" src="https://github.com/user-attachments/assets/d42d8685-58eb-482f-9c39-e1e9903d490d" />
+
 
 
 ---
