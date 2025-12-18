@@ -5,6 +5,7 @@
 This project focuses on analyzing pizza sales data using **MySQL** to uncover key business insights related to sales performance, customer demand, order patterns, and product popularity. The goal is to transform raw transactional data into **meaningful, decision-ready insights** that can help a pizza business improve revenue, inventory planning, and operational efficiency.
 
 This project is designed with a **real-world business mindset**
+
 ---
 
 ## Objectives
